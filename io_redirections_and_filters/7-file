@@ -1,2 +1,2 @@
 #!/bin/bash
-touch \*\\\'\"Best\ School\"\'\\\*\$\?\*\*\*\*\*\:\) | cp -r Best School \*\\\'\"Best\ School\"\'\\\*\$\?\*\*\*\*\*\:\)
+touch \*\\\'\"Best\ School\"\'\\\*\$\?\*\*\*\*\*\:\) cp -r Best School \*\\\'\"Best\ School\"\'\\\*\$\?\*\*\*\*\*\:\)
