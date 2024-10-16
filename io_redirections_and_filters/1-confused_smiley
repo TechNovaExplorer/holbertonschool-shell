@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "(\\u00D4o)'"
-
+cat smiley
