@@ -1,0 +1,2 @@
+#!/bin/bash
+head -n 3 mon_fichier.txt | tail -n 1 >> mon_fichier.txt
