@@ -1,2 +1,2 @@
 #!/bin/bash
-grec -r "root"  /etc/passwd
+grec -r "root" /etc/passwd
