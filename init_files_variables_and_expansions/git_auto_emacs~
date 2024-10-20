@@ -1,0 +1,12 @@
+#!/bin/bash
+if [ -z "$1"]; then
+   echo "pas de nom donner a touch"
+   exit 1
+fi
+
+git touch "$1"
+
+chmod +x "$1"
+
+git emacs "$1"
+

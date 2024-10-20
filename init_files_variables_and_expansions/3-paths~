@@ -1,0 +1,2 @@
+#!/bin/bash
+ma_variable=$PATH num_directory=$ (echo "ma_variable" | tr ':' '\n' | wc -1) echo "$num_directory"
